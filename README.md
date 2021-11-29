@@ -1,9 +1,9 @@
-###### MAITForum - A discussion Forum - MERN
+# MAITForum - A discussion Forum - MERN
 
 
 
-#### Built using
-##### Front-end
+# Built using
+## Front-end
 * ReactJS - Frontend framework <br>
 * Redux w/ useDispatch & useSelector hooks - For state management <br>
 * Redux Thunk - For asynchronous actions <br>
