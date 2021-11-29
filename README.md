@@ -1,7 +1,7 @@
 ###### MAITForum - A discussion Forum - MERN
 #### Built using
 ##### Front-end
-* >ReactJS - Frontend framework <br>
+* ReactJS - Frontend framework <br>
 >Redux w/ useDispatch & useSelector hooks - For state management <br>
 >Redux Thunk - For asynchronous actions <br>
 >React Router - For general routing & navigation <br>
