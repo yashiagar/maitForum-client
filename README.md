@@ -1,6 +1,6 @@
-###### Reddish - A Reddit Clone - MERN
+###### MAITForum - A discussion Forum - MERN
 #### Built using
-########### Front-end
+###### Front-end
 >ReactJS - Frontend framework
 >Redux w/ useDispatch & useSelector hooks - For state management
 >Redux Thunk - For asynchronous actions
