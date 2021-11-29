@@ -1,4 +1,4 @@
-####Reddish - A Reddit Clone - MERN
+#### Reddish - A Reddit Clone - MERN
 ###Built using
 ##Front-end
 >ReactJS - Frontend framework
