@@ -30,7 +30,8 @@
 ## Env variable:
 Create .env file in server directory and add the following: <br>
 
-```MONGODB_URI = "Your Mongo URI"
+```
+MONGODB_URI = "Your Mongo URI"
 ```
 
 ## Client:
@@ -45,5 +46,5 @@ Note: Make sure that you have installed 'nodemon' as global package.
 ```
 cd server
 npm install
-npm run dev
+nodemon start
 ```
